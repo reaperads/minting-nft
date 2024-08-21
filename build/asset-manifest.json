@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37188560.css",
+    "main.js": "/static/js/main.82640600.js",
+    "static/media/ethlogo.png": "/static/media/ethlogo.b5b45c778b4c259ba900.png",
+    "static/media/background.png": "/static/media/background.76fc389d026c480a6d0d.png",
+    "static/media/step3.png": "/static/media/step3.55724d785ff39f85eca4.png",
+    "static/media/step1.png": "/static/media/step1.f760fe6c53bfbd2e934a.png",
+    "static/media/owner.png": "/static/media/owner.f2d2e9d528c90c16016e.png",
+    "static/media/step2.png": "/static/media/step2.061c331231083923ff47.png",
+    "static/media/dc_icon.png": "/static/media/dc_icon.452be82045079daf7009.png",
+    "static/media/step4.png": "/static/media/step4.02038cf6b1e68869d07b.png",
+    "index.html": "/index.html",
+    "main.37188560.css.map": "/static/css/main.37188560.css.map",
+    "main.82640600.js.map": "/static/js/main.82640600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37188560.css",
+    "static/js/main.82640600.js"
+  ]
+}
