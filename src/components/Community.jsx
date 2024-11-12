@@ -20,7 +20,7 @@ const Community = () => {
           </p>
           
           <div className="flex justify-center space-x-4 mt-6">
-            <a href="https://github.com/Daltonic" className="bg-white p-2 rounded-full hover:scale-105 transition" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/reaperads" className="bg-white p-2 rounded-full hover:scale-105 transition" target="_blank" rel="noopener noreferrer">
               <img className="w-8 h-8" src={github} alt="Github" />
             </a>
             <a href="https://discord.com/invite/stresscapitals" className="bg-white p-2 rounded-full hover:scale-105 transition" target="_blank" rel="noopener noreferrer">

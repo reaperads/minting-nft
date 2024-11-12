@@ -78,7 +78,7 @@ const Hero = () => {
         Each NFT in this collection not only offers unique artwork but is also supported by advanced and transparent smart contracts.
         </p>
         <div className="flex justify-center space-x-2 mb-4">
-          <a href="https://github.com/agdaalif" className="bg-white p-1 rounded-full hover:scale-105 transition"  target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/reaperads" className="bg-white p-1 rounded-full hover:scale-105 transition"  target="_blank" rel="noopener noreferrer">
             <img className="w-7 h-7" src={github} alt="Github" />
           </a>
           <a href="https://www.linkedin.com/in/agdaalif" className="bg-white p-1 rounded-full hover:scale-105 transition"  target="_blank" rel="noopener noreferrer">
